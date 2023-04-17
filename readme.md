@@ -1,8 +1,8 @@
 # Starting a business in the UAE as a foreigner typically involves the following steps:
 
-### Determine the type of legal entity : Foreign investors can choose from several options to set up a business in the UAE, including a mainland company, free zone company, or an offshore company.
+### 1- Determine the type of legal entity : Foreign investors can choose from several options to set up a business in the UAE, including a mainland company, free zone company, or an offshore company.
 
-### Choose a trade name: Once you have determined the type of legal entity, you will need to choose a trade name and register it with the relevant authorities.
+### 2 - Choose a trade name: Once you have determined the type of legal entity, you will need to choose a trade name and register it with the relevant authorities.
 
 ### Obtain business licenses: Depending on the type of activity, you may need one or more licenses, such as trade license, industrial license, professional license, and others.
 
