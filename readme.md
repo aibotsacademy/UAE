@@ -2,7 +2,7 @@
 
 ### 1- Determine the type of legal entity : Foreign investors can choose from several options to set up a business in the UAE, including a mainland company, free zone company, or an offshore company.
 
-https://www.dubaichamber.com/resources/establishment-steps/determine-the-type-of-legal-entity
+https://eservice.dubaichamber.com/
 
 ### 2- Choose a trade name: Once you have determined the type of legal entity, you will need to choose a trade name and register it with the relevant authorities.
 
